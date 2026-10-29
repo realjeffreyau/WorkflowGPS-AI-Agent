@@ -7,6 +7,12 @@
 A planning platform that turns scattered updates into daily priorities,
 then learns from the decisions you make.
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#development)
+[![Three.js](https://img.shields.io/badge/Three.js-111827?style=for-the-badge&logo=threedotjs&logoColor=6EE7C8)](#inside-the-platform)
+[![LLM Planning](https://img.shields.io/badge/LLM-Planning-111827?style=for-the-badge&labelColor=233B3D&color=6EE7C8)](#the-learning-loop)
+[![Written Memory](https://img.shields.io/badge/Memory-Written_Rules-111827?style=for-the-badge&labelColor=233B3D&color=6EE7C8)](#the-learning-loop)
+[![Live and Demo](https://img.shields.io/badge/Modes-Live_%2B_Demo-111827?style=for-the-badge&labelColor=233B3D&color=F3A73B)](#live-and-demo)
+
 [Get started](#run-locally) · [Explore the platform](#inside-the-platform) · [How learning works](#the-learning-loop)
 
 </div>
